@@ -1,3 +1,3 @@
 # neomorphic-portfolio
 
-#https://sahilchoudhary.netlify.app/
+https://sahilchoudhary.netlify.app/
